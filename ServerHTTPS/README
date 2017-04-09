@@ -1,0 +1,5 @@
+Purpose:
+
+Creating a Server using socket programming to handle Hyptertext Transfer protocol (HTTP) requests within a connection encrypted by Secure Sockets Layer
+
+In this project I used openSSL to generate a private key and also a self-signed SSL certificate for server authentication. 
