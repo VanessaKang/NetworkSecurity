@@ -1,0 +1,4 @@
+
+The purpose of this project is to create a Server using socket programming that can communicate to a client that has requesting a HTTP webpage. 
+
+This sends data (index.html) back to the client through a specific port along withe requested picture. 
