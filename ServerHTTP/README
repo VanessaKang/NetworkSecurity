@@ -1,5 +1,5 @@
 
 Purpose of Project:
-Create a Server using socket programming to host a HTTP Webpage.
+Create a Server using socket programming to handle HyperText Transfer Protocol (HTTP) requests. 
 
 A client can request using a browser and this sends data (index.html) back to the client through a specific port along withe requested picture. 
